@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TicketMaster</string>
+    <string name="ticket_master_events_home">Ticket Master Events</string>
+    <string name="event_image_content_description">Event Image</string>
+    <string name="no_image_available">No Image Available</string>
+    <string name="input">Input</string>
+    <string name="clear_text">Clear text</string>
+    <string name="search_events">Search...</string>
+    <string name="search">search field</string>
+    <string name="no_results_found">We\'re sorry, but we couldn’t find any events. Try updating your location and date range, or use more general keywords.\n</string>
+    <string name="search_button_text">Search</string>
+    <string name="invalid_date">Invalid Date</string>
+</resources>
